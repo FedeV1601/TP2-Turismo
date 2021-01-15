@@ -1,0 +1,37 @@
+.fondo{
+
+    background-image: url('../img/portada/portada.jpg');
+   }
+
+.fondoTest{
+height: 380px;
+   background-image: url('../img/portada/portada2.jpg'); 
+}
+
+.titulo{
+    font-family: 'Paytone One', sans-serif;
+   
+}
+
+.volver{
+    text-decoration: none;
+    color:white;
+   }
+   
+.volver:hover{
+    text-decoration: none;
+    color:rgb(89, 36, 235);
+}
+
+textarea {
+  resize: none;
+}
+
+a {
+
+    color: black;
+}
+
+
+
+
